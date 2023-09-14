@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+    font-family: sans-serif;
+}
+body{
+    color: rgb(27, 34, 97);
+    background-color: #8742d6;
+    height: 100vh;
+    font-size: 25px;
+    font-weight: bold;
+}
